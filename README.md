@@ -6,10 +6,11 @@ I'm a junior studying Computer Science at the **University of Michigan** and an 
 
 ## Currently working on
 
-- **Inkaterra**: a bilingual (English/Spanish) online store and staff admin for a family-owned Peruvian market in Hartsdale, NY, built with the Void Tech team at UMich.\
-  *Next.js · React · TypeScript · Tailwind CSS*
-- **[FluentFeed](https://github.com/AnthonyXNguyen/FluentFeed)**: Doom-scrolling that makes you fluent. Pronounce your own flashcards, or (coming soon) swipe real YouTube Shorts and pass a quiz to keep scrolling. AI-graded with Azure Speech.\
-  *React Native · TypeScript · Python · FastAPI · Supabase*
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Inkaterra** | Bilingual online store for a family-owned Peruvian market (Void Tech @ UMich) | Next.js, React, TypeScript, Tailwind |
+| **[FluentFeed](https://github.com/AnthonyXNguyen/FluentFeed)** | Doom-scrolling that makes you fluent, AI-graded with Azure Speech | React Native, TypeScript, Python, FastAPI, Supabase |
+
 
 ## Tech stack
 
