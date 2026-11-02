@@ -13,7 +13,7 @@ I'm a junior studying Computer Science at the **University of Michigan** and an 
 
 ## Tech stack
 
-**Languages:** Python, C++, TypeScript, SQL, HTML, CSS
-**Frameworks:** React, Next.js, React Native, Flask, FastAPI, Tailwind CSS
-**Databases:** PostgreSQL, SQLite, Supabase
+**Languages:** Python, C++, TypeScript, SQL, HTML, CSS\
+**Frameworks:** React, Next.js, React Native, Flask, FastAPI, Tailwind CSS\
+**Databases:** PostgreSQL, SQLite, Supabase\
 **Tools:** Git, AWS
