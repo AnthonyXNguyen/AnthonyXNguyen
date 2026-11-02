@@ -14,6 +14,8 @@ I'm a junior studying Computer Science at the **University of Michigan** and an 
 
 ## Tech stack
 
+![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,html,css,react,nextjs,flask,fastapi,tailwind,postgres,sqlite,supabase,git,aws)
+
 **Languages:** Python, C++, TypeScript, SQL, HTML, CSS\
 **Frameworks:** React, Next.js, React Native, Flask, FastAPI, Tailwind CSS\
 **Databases:** PostgreSQL, SQLite, Supabase\
